@@ -1,16 +1,64 @@
-
-
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+body{
+	background: url(../img/BG.png);
+}
+
+nav{
+	width: 1020px;
+	height: 150px;
+	background-color: #47412F;
+	margin: 0 auto;
+}
+
+section{
+	width: 1020px;
+	margin: 0 auto;
+	background-color: #C0DBD8;
+}
+
+.navbar-brand{
+	
+}
+
+hr{
+	width: 1020px;
+	height: 20px;
+	background-color: #E28AB8;
+	margin: 0 auto;
+	border: 0;
+}
+
+.img{
+	float: left;
+	margin-top: -50px;
+}
+
+.form-group{
+	float: left;
+}
 
 
 
+.have{
+	width: 285px;
+	background-color: #E28AB8;
+	float: left;
+	margin-top: 40px;
+}
 
+.have h5{
+	color: #FDF6E5;
+	margin-top: 0px;
+	margin-left: 10px;
+}
 
-
-
-
+.menu-title{
+	width: 285px;
+	height: 30px;
+	background-color: #47412F;
+}
 
 
 
