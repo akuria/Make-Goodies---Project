@@ -18,10 +18,6 @@ section{
 	background-color: #C0DBD8;
 }
 
-.navbar-brand{
-	
-}
-
 hr{
 	width: 1020px;
 	height: 20px;
@@ -32,26 +28,43 @@ hr{
 
 .img{
 	float: left;
-	margin-top: -50px;
+	margin-left: 10px;
+	margin-top: 10px;
 }
 
-.form-group{
-	float: left;
+.navbar-form{
+	margin-top: 80px;
+	margin-left: 220px;
 }
-
-
 
 .have{
+	width: 285px;
+	height: 720px;
+	background-color: #E28AB8;
+	float: left;
+	margin-top: 40px;
+	display: block;
+}
+
+.time{
 	width: 285px;
 	background-color: #E28AB8;
 	float: left;
 	margin-top: 40px;
 }
 
-.have h5{
-	color: #FDF6E5;
-	margin-top: 0px;
-	margin-left: 10px;
+.make{
+	height: 150px;
+	margin-top: 30px;
+}
+
+.want{
+	height: 150px;
+	margin-top: 30px;
+}
+
+.difficulty{
+	margin-top: 30px;
 }
 
 .menu-title{
@@ -60,6 +73,20 @@ hr{
 	background-color: #47412F;
 }
 
+h5{
+	color: #FDF6E5;
+	margin-top: 0px;
+	margin-left: 10px;
+	letter-spacing: .2em;
+}
+
+.portfolio-item{
+	width: 200px;
+	height: 230px;
+	margin: 20px 20px 20px 20px;
+	padding: 5px 5px 5px 5px;
+	background-color: #fff;
+}
 
 
 
